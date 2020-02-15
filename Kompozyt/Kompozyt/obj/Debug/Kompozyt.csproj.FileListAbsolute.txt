@@ -1,0 +1,6 @@
+C:\Users\Przemek\source\repos\Wzorce\Kompozyt\Kompozyt\obj\Debug\Kompozyt.csprojAssemblyReference.cache
+C:\Users\Przemek\source\repos\Wzorce\Kompozyt\Kompozyt\bin\Debug\Kompozyt.exe.config
+C:\Users\Przemek\source\repos\Wzorce\Kompozyt\Kompozyt\bin\Debug\Kompozyt.exe
+C:\Users\Przemek\source\repos\Wzorce\Kompozyt\Kompozyt\bin\Debug\Kompozyt.pdb
+C:\Users\Przemek\source\repos\Wzorce\Kompozyt\Kompozyt\obj\Debug\Kompozyt.exe
+C:\Users\Przemek\source\repos\Wzorce\Kompozyt\Kompozyt\obj\Debug\Kompozyt.pdb

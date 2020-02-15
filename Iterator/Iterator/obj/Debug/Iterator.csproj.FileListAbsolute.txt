@@ -1,0 +1,6 @@
+C:\Users\Przemek\source\repos\Iterator\Iterator\bin\Debug\Iterator.exe.config
+C:\Users\Przemek\source\repos\Iterator\Iterator\bin\Debug\Iterator.exe
+C:\Users\Przemek\source\repos\Iterator\Iterator\bin\Debug\Iterator.pdb
+C:\Users\Przemek\source\repos\Iterator\Iterator\obj\Debug\Iterator.csprojAssemblyReference.cache
+C:\Users\Przemek\source\repos\Iterator\Iterator\obj\Debug\Iterator.exe
+C:\Users\Przemek\source\repos\Iterator\Iterator\obj\Debug\Iterator.pdb

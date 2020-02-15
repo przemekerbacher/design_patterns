@@ -1,0 +1,6 @@
+C:\Users\Przemek\source\repos\Interpreter\Interpreter\bin\Debug\Interpreter.exe.config
+C:\Users\Przemek\source\repos\Interpreter\Interpreter\bin\Debug\Interpreter.exe
+C:\Users\Przemek\source\repos\Interpreter\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\Przemek\source\repos\Interpreter\Interpreter\obj\Debug\Interpreter.csprojAssemblyReference.cache
+C:\Users\Przemek\source\repos\Interpreter\Interpreter\obj\Debug\Interpreter.exe
+C:\Users\Przemek\source\repos\Interpreter\Interpreter\obj\Debug\Interpreter.pdb

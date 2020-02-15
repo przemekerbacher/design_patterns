@@ -1,0 +1,6 @@
+C:\Users\Przemek\source\repos\Wzorce\Dekorator\Dekorator\bin\Debug\Dekorator.exe.config
+C:\Users\Przemek\source\repos\Wzorce\Dekorator\Dekorator\bin\Debug\Dekorator.exe
+C:\Users\Przemek\source\repos\Wzorce\Dekorator\Dekorator\bin\Debug\Dekorator.pdb
+C:\Users\Przemek\source\repos\Wzorce\Dekorator\Dekorator\obj\Debug\Dekorator.csprojAssemblyReference.cache
+C:\Users\Przemek\source\repos\Wzorce\Dekorator\Dekorator\obj\Debug\Dekorator.exe
+C:\Users\Przemek\source\repos\Wzorce\Dekorator\Dekorator\obj\Debug\Dekorator.pdb
